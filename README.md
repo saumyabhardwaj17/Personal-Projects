@@ -20,3 +20,8 @@ Functions:
 3-SEARCH THE CONTENT
 4- COPY ONLY THOSE RECORDS WHOSE  PRICE IS MORE THAN 10 TO MYDRINK.DAT.
 5- DISPLAY CONTENTS OF MYDRINKS.DAT
+
+# 3. LibraryManagement.cpp
+A c++ program for Library management to get the data and display with additional feature of modify the data for the price up and down.
+A binary file is used to store the data. Dynamically data has been stored for read and write . 
+Aditionally modify has also been created for further modification in the data.
