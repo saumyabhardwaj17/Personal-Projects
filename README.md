@@ -1,5 +1,9 @@
 # Personal-Projects
-# MyComputerJournal
+# MyComputerJournal.pdf
+This file is a collection of all my programs and basic projects that has been done in c++ in my 12th standard.
+This file contains all the program from basics to linked list to stl/binaryfiles
+This was started in year 2018 and completed in 2019.
+A full set of data structures and algorithm has been implimented throughout.
 
 # 1. Simple List item project using binary file
 It is simple c++ language program using binary that has used class, arrays, linked list, Linear Sort for searching and it is linked to a binary file to store all the data. In this you can insert,search and display the values stored in the binary file.
